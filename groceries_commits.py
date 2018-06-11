@@ -31,8 +31,7 @@ print(products)
 
 #2: Print the first product
 print(products[0])
-
-# print(type(products)) - printing type of variable that products is
+print(type(products)) 
 
 #3: Print the name of the first product
 #print(products[0] ["name"])
