@@ -30,7 +30,7 @@ print(products)
 # this is a list of dictionaries
 
 #2: Print the first product
-#print(products[0])
+print(products[0])
 
 # print(type(products)) - printing type of variable that products is
 
